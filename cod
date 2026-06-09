@@ -1,0 +1,14 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "ClockSpeed": 1,
+  "Vehicles": {
+    "PX4": {
+      "VehicleType": "PX4Multirotor",
+      "UseSerial": false,
+      "UseTcp": true,
+      "TcpPort": 4560,
+      "LocalHostIp": "0.0.0.0"
+    }
+  }
+}
